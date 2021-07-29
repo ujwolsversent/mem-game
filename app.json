@@ -20,5 +20,7 @@
       "size": "free"
     }
   },
+  {
   "stack": "heroku-18"
+  }
 }
