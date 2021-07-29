@@ -46,3 +46,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem "jwt", "~> 2.2"
 gem "graphiti-rails", "~> 0.2.3"
+gem "mimemagic", "~> 0.3.10"
