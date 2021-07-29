@@ -1,5 +1,6 @@
 {
   "name": "meme-game",
+  "stack": "heroku-18",
   "description": "A toy API for an online game of crafting funny memes",
   "buildpacks": [
     {
@@ -19,8 +20,5 @@
       "quantity": 1,
       "size": "free"
     }
-  },
-  {
-  "stack": "heroku-18"
   }
 }
